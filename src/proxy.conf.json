@@ -1,0 +1,8 @@
+{
+    "/home/*": {
+        "target": "http://localhost:8080/test/susmita",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
